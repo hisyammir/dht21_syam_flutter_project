@@ -1,6 +1,6 @@
 # dht21_syam_flutter_project
 
-A new Flutter project.
+Flutter application to stream data from the Firebase Realtime Database using StreamBuilder (for android). And also the streaming project from NodeMCU - ESP8266 reads the Temperature, Humidity, and Heat Index.
 
 ## Getting Started
 
